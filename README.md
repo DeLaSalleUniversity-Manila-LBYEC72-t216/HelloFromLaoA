@@ -14,6 +14,7 @@ int main ()
 	puts("\n\t    angelllll@dlsu.edu.ph");	
 	puts("\n\t         09672884488\n");		
 	puts("\n\t@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n");
+	system("PAUSE");
 	return 0;
 }
 ```
