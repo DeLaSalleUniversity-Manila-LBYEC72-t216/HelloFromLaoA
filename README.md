@@ -1,5 +1,7 @@
 # HelloFromLaoA
 
+Hello world repo!
+```
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -15,5 +17,6 @@ int main ()
 	puts("\n\t@@@@@@@@@@@@@@@@@@@@@@@@@@@@@\n");
 	return 0;
 }
+```
 
 ![](ID.PNG)
